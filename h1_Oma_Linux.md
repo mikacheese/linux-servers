@@ -51,6 +51,6 @@ Installed Physical Memory (RAM)	32,0 GB
 
 ![Asennus alkaa ja siinä menee hetki](https://github.com/mikacheese/linux-servers/tree/images/Kuva15.png "Asennus alkaa ja siinä menee hetki")
 
-![Kun asennus on valmis, käynnistetään kone uudelleen. Sen jälkeen kaikki on valmista](https://github.com/mikacheese/linux-servers/tree/images/Kuva16 "Kun asennus on valmis, käynnistetään kone uudelleen. Sen jälkeen kaikki on valmista ")
+![Kun asennus on valmis, käynnistetään kone uudelleen. Valmista](https://github.com/mikacheese/linux-servers/tree/images/Kuva16.png "Kun asennus on valmis, käynnistetään kone uudelleen. Valmista ")
 
 
