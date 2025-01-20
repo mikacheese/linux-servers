@@ -19,5 +19,5 @@ Installed Physical Memory (RAM)	32,0 GB
 
 ## 3. Virtuaalikoneen asennus; Debian 12.9.0 GNOME työpöydällä.
 
-![Luodaan uusi virtuaalikone VirtualBoxin valikosta "Machine -> New...](/linux-servers/images/kuva.png "Luodaan uusi virtuaalikone VirtualBoxin valikosta "Machine -> New...")
+![Luodaan uusi virtuaalikone VirtualBoxin valikosta "Machine -> New...](/linux-servers/images/Kuva.png "Luodaan uusi virtuaalikone VirtualBoxin valikosta "Machine -> New...")
 
