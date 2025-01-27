@@ -69,6 +69,11 @@ uname -r | cowsay -> putkitus ytimen versio lehmälle
 ![uname -r | cowsay -> putkitus ytimen versio lehmälle](https://github.com/mikacheese/linux-servers/blob/imagesh2/Putkitus.png)
 
 
+## f) Rauta. (‘sudo lshw -short -sanitize’).  
+
+
+
+
 
 
 
