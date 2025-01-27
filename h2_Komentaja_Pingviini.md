@@ -10,4 +10,4 @@
 
 ## a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus
 
-!a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus](https://github.com/mikacheese/linux-servers/blob/imagesh2/install.png)
+![a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus](https://github.com/mikacheese/linux-servers/blob/imagesh2/install.png)
