@@ -52,6 +52,10 @@ grep [A-Z] rauta.txt  -> Näytetään tiedostosta rauta.txt rivit, joissa on iso
 
 ## e) Pipe
 
+uname -r | cowsay -> putkitus ytimenversio lehmälle
+
+![uname -r | cowsay -> putkitus ytimenversio lehmälle](https://github.com/mikacheese/linux-servers/blob/imagesh2/Putkitus.png)
+
 
 
 
