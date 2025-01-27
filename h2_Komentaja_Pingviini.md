@@ -1,6 +1,8 @@
 # h2 Komentaja Pingviini
 
-## sudo apt-get update -> repositorien eli pakettilähteiden päivitys
+
+
+## sudo apt-get update -> repositorien eli pakettilähteiden päivitys.
 
 ![sudo apt-get update -> repositorien eli pakettilähteiden päivitys](https://github.com/mikacheese/linux-servers/blob/imagesh2/update.png)
 
@@ -8,11 +10,17 @@
 
 ![sudo apt-get upgrade -> ohjelmien päivitys](https://github.com/mikacheese/linux-servers/blob/imagesh2/update.png)
 
-## a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus
+## clear -> comentorivin tyhjennys.
+
+
+
+## a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus.
 
 ![a) & b) sudo apt-get install bash-completion nano vim micro cowsay lshw -> ohjelmien asennus](https://github.com/mikacheese/linux-servers/blob/imagesh2/install.png)
 
-## c) FHS
+
+
+## c) FHS.
 
 ls -> tiedostolistaus
 
@@ -36,7 +44,9 @@ tree -> hakemistorakenteen puumainen listaus
 
 /var/log/ -> logitiedostot
 
-## d) The Friendly M. 3 kuvaavaa esimerkkiä grep-komennon käytöstä
+
+
+## d) The Friendly M. 3 kuvaavaa esimerkkiä grep-komennon käytöstä.
 
 grep bridge rauta.txt -> etsii tiedostosta rauta.txt rivit, joilla lukee bridge
 
@@ -50,11 +60,13 @@ grep [A-Z] rauta.txt  -> Näytetään tiedostosta rauta.txt rivit, joissa on iso
 
 ![grep [A-Z] rauta.txt  -> Näytetään tiedostosta rauta.txt rivit, joissa on iso kirjain](https://github.com/mikacheese/linux-servers/blob/imagesh2/grep3.png)
 
-## e) Pipe
 
-uname -r | cowsay -> putkitus ytimenversio lehmälle
 
-![uname -r | cowsay -> putkitus ytimenversio lehmälle](https://github.com/mikacheese/linux-servers/blob/imagesh2/Putkitus.png)
+## e) Pipe.
+
+uname -r | cowsay -> putkitus ytimen versio lehmälle
+
+![uname -r | cowsay -> putkitus ytimen versio lehmälle](https://github.com/mikacheese/linux-servers/blob/imagesh2/Putkitus.png)
 
 
 
