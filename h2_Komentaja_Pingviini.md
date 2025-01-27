@@ -18,15 +18,17 @@ ls -> tiedostolistaus
 
 tree -> hakemistorakenteen puumainen listaus
 
-![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
-
 / -> juurihakemisto (root...)
 
 /home/ -> kaikkien käyttäjien hakemistot
 
 /home/joku/ -> joku nimisen henkilön kotihakemisto
 
+![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
+
 /etc/ järjestelmän asetukset yms
+
+
 
 /media/ siirrettävät mediat
 
