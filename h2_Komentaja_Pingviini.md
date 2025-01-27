@@ -50,6 +50,9 @@ grep [A-Z] rauta.txt  -> Näytetään tiedostosta rauta.txt rivit, joissa on iso
 
 ![grep [A-Z] rauta.txt  -> Näytetään tiedostosta rauta.txt rivit, joissa on iso kirjain](https://github.com/mikacheese/linux-servers/blob/imagesh2/grep3.png)
 
+## e) Pipe
+
+
 
 
 
