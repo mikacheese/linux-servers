@@ -15,11 +15,17 @@
 ## c) FHS
 
 / -> juurihakemisto (root...)
+
 /home/ -> kaikkien käyttäjien hakemistot
+
 /home/joku/ -> joku nimisen henkilön kotihakemisto
+
 /etc/ järjestelmän asetukset yms
+
 /media/ siirrettävät mediat
+
 /var/log/ logitiedostot 
+
 
 ls -> tiedostolistaus 
 tree -> hakemistorakenteen puumainen listaus
