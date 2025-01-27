@@ -32,7 +32,7 @@ tree -> hakemistorakenteen puumainen listaus
 
 /media/ siirrettävät mediat
 
-
+![/media/ siirrettävät mediat](https://github.com/mikacheese/linux-servers/blob/imagesh2/media.png)
 
 /var/log/ logitiedostot 
 
