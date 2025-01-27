@@ -30,4 +30,6 @@
 ls -> tiedostolistaus 
 tree -> hakemistorakenteen puumainen listaus
 
+![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
+
 
