@@ -26,15 +26,15 @@ tree -> hakemistorakenteen puumainen listaus
 
 ![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
 
-/etc/ järjestelmän asetukset yms
+/etc/ -> järjestelmän asetukset yms
 
+![/etc/ -> järjestelmän asetukset yms](https://github.com/mikacheese/linux-servers/blob/imagesh2/etc_sourceslist.png)
 
-
-/media/ siirrettävät mediat
+/media/ -> siirrettävät mediat
 
 ![/media/ siirrettävät mediat](https://github.com/mikacheese/linux-servers/blob/imagesh2/media.png)
 
-/var/log/ logitiedostot 
+/var/log/ -> logitiedostot 
 
 
 
