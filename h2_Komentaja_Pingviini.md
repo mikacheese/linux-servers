@@ -14,6 +14,12 @@
 
 ## c) FHS
 
+ls -> tiedostolistaus
+
+tree -> hakemistorakenteen puumainen listaus
+
+![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
+
 / -> juurihakemisto (root...)
 
 /home/ -> kaikkien käyttäjien hakemistot
@@ -24,12 +30,9 @@
 
 /media/ siirrettävät mediat
 
+
+
 /var/log/ logitiedostot 
 
-
-ls -> tiedostolistaus 
-tree -> hakemistorakenteen puumainen listaus
-
-![Hakemistoissaliikkumista](https://github.com/mikacheese/linux-servers/blob/imagesh2/Hakemistoissaliikkumista.png)
 
 
