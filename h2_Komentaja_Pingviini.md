@@ -34,7 +34,11 @@ tree -> hakemistorakenteen puumainen listaus
 
 ![/media/ siirrettävät mediat](https://github.com/mikacheese/linux-servers/blob/imagesh2/media.png)
 
-/var/log/ -> logitiedostot 
+/var/log/ -> logitiedostot
+
+## d) The Friendly M. 3 kuvaavaa esimerkkiä grep-komennon käytöstä
+
+
 
 
 
