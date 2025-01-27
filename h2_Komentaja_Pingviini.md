@@ -75,9 +75,11 @@ sudo lshw -short -sanitize > rauta.txt -> raudan tulostus tiedostoon rauta.txt
 
 ![sudo lshw -short -sanitize > rauta.txt -> raudan tulostus tiedostoon rauta.txt](https://github.com/mikacheese/linux-servers/blob/imagesh2/rauta.png)
 
-nano rauta.txt -> raudan listaus nano tekstieditorilla.  
+nano rauta.txt -> raudan listaus nano tekstieditorilla. Listaa järjestelmässä käytetyn laitteiston.  
 
-![nano rauta.txt -> raudan listaus nano tekstieditorilla.](https://github.com/mikacheese/linux-servers/blob/imagesh2/nanorauta2.png)
+![nano rauta.txt -> raudan listaus nano tekstieditorilla. Listaa järjestelmässä käytetyn laitteiston.](https://github.com/mikacheese/linux-servers/blob/imagesh2/nanorauta2.png)
+
+
 
 
 
