@@ -16,3 +16,25 @@
 
 ## Sivun teko
 
+![kansion luonti sivustoa varten](https://github.com/mikacheese/linux-servers/blob/imagesh3/www_sivu_kansio.png)
+
+![uuden sivuston apache conf tiedoston luonti](https://github.com/mikacheese/linux-servers/blob/imagesh3/hattuexamplecomconf.png)
+
+![katsotaan /var/log/apache2/other_vhosts_access.log tiedostosta onnistunut sivun lataus.](https://github.com/mikacheese/linux-servers/blob/imagesh3/Success.png)
+
+![hattu.example.com conf-tiedoston sisältö](https://github.com/mikacheese/linux-servers/blob/imagesh3/sites_availbale.png)
+
+![sivuston aktivoiminen](https://github.com/mikacheese/linux-servers/blob/imagesh3/a2ensite.png)
+
+![apache:n uudelleen käynnistäminen](https://github.com/mikacheese/linux-servers/blob/imagesh3/arestart.png)
+
+![host tiedoston editointi](https://github.com/mikacheese/linux-servers/blob/imagesh3/nanohosts.png)
+
+![hattu.example.com lisääminen hosts tiedostoon, jotta sitä voi kutsua omalla osoitteella](https://github.com/mikacheese/linux-servers/blob/imagesh3/hosts.png)
+
+![hattu.example.com\index.html tiedoston tekeminen, joka on aloitussivu](https://github.com/mikacheese/linux-servers/blob/imagesh3/indexhtml.png)
+
+![valmis sivu hattu...](https://github.com/mikacheese/linux-servers/blob/imagesh3/Hattu.png)
+
+![valmis sivu mika...](https://github.com/mikacheese/linux-servers/blob/imagesh3/mika.png)
+
