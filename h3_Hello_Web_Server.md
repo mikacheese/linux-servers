@@ -38,3 +38,19 @@
 
 ![valmis sivu mika...](https://github.com/mikacheese/linux-servers/blob/imagesh3/mika.png)
 
+## curl komento
+
+![curl-komento näyttää kohdesivun html rakenteen](https://github.com/mikacheese/linux-servers/blob/imagesh3/curl.png)
+
+![curl_I komento näyttää sivuston pyynnön otsaketiedot](https://github.com/mikacheese/linux-servers/blob/imagesh3/curl_I.png)
+
+1. pyynnön tyyppi ja status
+2. päivämäärä
+3. palvelin ja alusta
+4. koska sivua on viimeksi muokattu
+5.
+6.
+7. sisällön koko
+8.
+9. sisällön tyyppi
+
