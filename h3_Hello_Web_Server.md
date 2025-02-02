@@ -34,7 +34,7 @@
 
 ![hattu.example.com\index.html tiedoston tekeminen, joka on aloitussivu](https://github.com/mikacheese/linux-servers/blob/imagesh3/indexhtml.png)
 
-![valmis sivu hattu...](https://github.com/mikacheese/linux-servers/blob/imagesh3/Hattu.png)
+![valmis sivu hattu...](https://github.com/mikacheese/linux-servers/blob/imagesh3/Hattu_1.png)
 
 ![valmis sivu mika...](https://github.com/mikacheese/linux-servers/blob/imagesh3/mika.png)
 
