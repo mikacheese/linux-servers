@@ -6,7 +6,7 @@
 
 ## Tutkitaan logista onnistunut sivun lataus
 
-![katsotaan /var/log/apache2/other_vhosts_access.log tiedostosta onnistunut sivun lataus.](https://github.com/mikacheese/linux-servers/blob/imagesh3/Success.png)
+![katsotaan /var/log/apache2/other_vhosts_access.log tiedostosta onnistunut sivun lataus.](https://github.com/mikacheese/linux-servers/blob/imagesh3/Success_1.png)
 
 1. domain name and port: hattu.example.com:80 (80 = http)
 2. ip address: 127.0.0.1
