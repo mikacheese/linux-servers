@@ -14,7 +14,7 @@
 4. Get sivuston pyyntö, 200 html status onnistunut, 1128 kohteen koko
 5. pyytävän selaimen tiedot
 
-## Sivun teko
+## Sivuston luominen ja valmis html5-sivu
 
 ![kansion luonti sivustoa varten](https://github.com/mikacheese/linux-servers/blob/imagesh3/www_sivu_kansio.png)
 
