@@ -34,7 +34,7 @@ Sen jälkeen päästään luomaan varsinaista virtuaalipalvelita ja ensimmäinen
 Seuraavaksi valitaan asennettava käyttöjärjestelmä - Debian 12.
 
 
-![Valitaan Käyttöjärjestelmä.](https://github.com/mikacheese/linux-servers/blob/imagesh4/5Kayttojajestelma.png)
+![Valitaan Käyttöjärjestelmä.](https://github.com/mikacheese/linux-servers/blob/imagesh4/5Kayttojarjestelma.png)
 
 
 Valitaan palvelimen resurssit, joka samalla määrittää peruspaketin hinnan.
