@@ -136,18 +136,6 @@ Kirjaudutaan palvelimelle äsken luodulla käyttäjällä.
 ![Kirjatuminen käyttäjänä ssh:lla.](https://github.com/mikacheese/linux-servers/blob/imagesh4/kirjautuminenml.png)
 
 
-Muokataan vielä sudoers tiedostoa, että saadaan ajastettua päivitykset cron:lla.
-
-
-![Sudoers-tiedoston muokkaus päivitysten automatisoinniksi cron:lla .](https://github.com/mikacheese/linux-servers/blob/imagesh4/sudoerstiedostonmuokkaus.png)
-
-
-Sudoers tiedostoon lisätty rivi antaa oikeuden ajaa "sudo apt-get update" ja "sudo apt-get upgrade" komennot ilman salasanaa sudo ryhmään kuuluville.
-
-
-![Sudoers-tiedostoon lisätty rivi.](https://github.com/mikacheese/linux-servers/blob/imagesh4/sudoers.png)
-
-
 ## Domainin hankkiminen.
 
 
